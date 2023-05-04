@@ -1,7 +1,7 @@
 # Force Elastic Agents Upgrade
 
 ## Description
-While upgrading Elastic Agents through Fleet from 8.6.0 to 8.6.1, some agents were stuck in the `UPDATING` state. 
+While upgrading Elastic Agents through Fleet from 8.6.0 to 8.6.1, some agents got stuck in the `UPDATING` state. 
 
 This script will collect information about all agents from Elastic and then will force the upgrade of the agents that are stuck in the `UPDATING` state.
 
