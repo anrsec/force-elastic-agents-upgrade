@@ -27,7 +27,8 @@ Source the `.env` file:
 Then run the script:  
 `python3 force-elastic-agents-upgrade.py`
 ## Support
-https://twitter.com/anrsec
+[Twitter](https://twitter.com/anrsec)  
+[Linkedin](https://www.linkedin.com/in/andrei-rediu/)
 
 ## Contributing
 Create a pull request or a GitHub issue.
